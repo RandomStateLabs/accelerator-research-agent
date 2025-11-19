@@ -1,0 +1,31 @@
+# Claude Desktop local settings
+.claude/
+
+# Personal testing notes
+Obsidian/
+
+# Working/internal files
+SUMMARY.md
+CLAUDE-DESKTOP-SETUP.md
+
+# Generated files
+*.zip
+
+# Optional documentation (not needed for skill)
+references/
+scripts/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
